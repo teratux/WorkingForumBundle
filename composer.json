@@ -3,7 +3,7 @@
     "description": "A complete forum bundle",
     "type": "symfony-bundle",
     "require": {
-        "knplabs/knp-paginator-bundle": "^3.0",
+        "knplabs/knp-paginator-bundle": "^5.0",
         "knplabs/knp-markdown-bundle": "^1.7.0",
 	    "symfony/framework-bundle": ">=3.4.26|>=4.2.7",
 	    "symfony/translation": ">=3.4.26",
