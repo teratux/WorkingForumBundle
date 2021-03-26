@@ -7,7 +7,6 @@
         "knplabs/knp-markdown-bundle": "^1.7.0",
 	    "symfony/framework-bundle": ">=3.4.26|>=4.2.7",
 	    "symfony/translation": ">=3.4.26",
-        "symfony/security": "^5.0.0",
         "symfony/templating": ">=3.4.26",
         "symfony/asset": ">=3.4.26|>=4.2.7",
         "sensio/framework-extra-bundle": ">=3.0",
@@ -46,7 +45,7 @@
         "hautelook/alice-bundle": "^2.7",
         "symfony/expression-language": "^5.0",
         "symfony/twig-bundle": "^4.4",
-        "symfony/security-bundle": "^4.4",
+        "symfony/security-bundle": "^5.0",
         "symfony/swiftmailer-bundle": "^3.4",
         "symfony/css-selector": "^4.4"
     }
